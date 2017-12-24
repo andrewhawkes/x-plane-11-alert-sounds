@@ -7,13 +7,13 @@ I will replace the sounds with more authentic and higher quality recordings when
 ## Installation
 
 ### Step 1
-Clone this repo or download a zip using the button in the top right.
+Download the sourcecode zip file of the [latest release](https://github.com/andrewhawkes/x-plane-11-alert-sounds/releases) (or clone the repo).
 
 ### Step 2 (optional)
 Backup your current alert sounds directory in X-Plane `\X-Plane 11\Resources\sounds\alert`. You can simply make a copy of the entire `alert` directory. I just named it `alert_backup`.
 
 ### Step 3
-Copy the contents of the `Resources/sounds/alert` directory in this repo and paste it into the corresponding directory in your X-Plane 11 installation. E.g `\X-Plane 11\Resources\sounds\alert`.
+Copy the contents of the `Resources/sounds/alert` directory from the zip and paste it into the corresponding directory in your X-Plane 11 installation. E.g `\X-Plane 11\Resources\sounds\alert`.
 Replace/overwrite the files which are already present. 
 
 Installation is now complete. 
